@@ -20,6 +20,14 @@ Windows 10 (OS tested on)
 Older Windows Version that isnt Vista or older
 
 # Pictures
+* <b>Infernum part:</b> Preview of Unusable Stage
+<p align="center"><img src="Images/Preview.png"></p>
+
+* <b>Infernum part:</b> MBR on compatible OS
+<p align="center"><img src="Images/MBR.png"></p>
+
+* <b>Infernum part:</b> MBR on incompatible OS
+<p align="center"><img src="Images/Preview.png"></p>
 
 # Credits
 
