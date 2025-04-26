@@ -1,1 +1,1 @@
-# SorryNotSorry-Trojan.Win32.SorryNotSorry-
+# SorryNotSorry (Trojan.Win32.SorryNotSorry)
