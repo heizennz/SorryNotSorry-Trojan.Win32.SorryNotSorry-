@@ -27,7 +27,7 @@ Older Windows Version that isnt Vista or older
 <p align="center"><img src="Images/MBR.png"></p>
 
 * <b>MBR:</b> MBR on incompatible OS
-<p align="center"><img src="Images/Preview.png"></p>
+<p align="center"><img src="Images/MBR2.png"></p>
 
 # Credits
 
